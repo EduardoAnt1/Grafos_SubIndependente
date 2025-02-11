@@ -1,0 +1,83 @@
+# Resultados dos Algoritmos
+
+## FB Branch and Bound
+- **n6.txt**:  
+  - Tamanho do maior conjunto independente: 3  
+  - Vértices: 1 3 5  
+  - Tempo de execução: 0s  
+- **n7.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 4 7 6 2  
+  - Tempo de execução: 0s  
+- **n8.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 8 1 3 6  
+  - Tempo de execução: 0s  
+- **n28.txt**:  
+  - Tamanho do maior conjunto independente: 18  
+  - Vértices: 15 28 27 26 25 24 23 22 21 20 19 18 17 16 1 4 7 6  
+  - Tempo de execução: 0.047s  
+
+## FB Raiz
+- **n6.txt**:  
+  - Tamanho do maior conjunto independente: 3  
+  - Vértices: 1 3 5  
+  - Tempo de execução: 0s  
+- **n7.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 2 4 6 7  
+  - Tempo de execução: 0s  
+- **n8.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 1 4 6 7  
+  - Tempo de execução: 0s  
+- **n28.txt**:  
+  - Tamanho do maior conjunto independente: 18  
+  - Vértices: 2 4 5 7 15 16 17 18 19 20 21 22 23 24 25 26 27 28  
+  - Tempo de execução: 1416.79s  
+
+## Grasp
+- **n6.txt**:  
+  - Tamanho do maior conjunto independente: 3  
+  - Vértices: 2 4 6  
+  - Tempo de execução: 0.017s  
+- **n7.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 2 4 6 7  
+  - Tempo de execução: 0.016s  
+- **n8.txt**:  
+  - Tamanho do maior conjunto independente: 4  
+  - Vértices: 1 6 7 8  
+  - Tempo de execução: 0.022s  
+- **n28.txt**:  
+  - Tamanho do maior conjunto independente: 18  
+  - Vértices: 4 5 6 7 15 16 17 18 19 20 21 22 23 24 25 26 27 28  
+  - Tempo de execução: 0.029s  
+- **n50.txt**:  
+  - Tamanho do maior conjunto independente: 25  
+  - Vértices: 1 4 7 9 10 11 12 15 16 25 26 27 28 33 35 36 37 38 39 40 41 42 43 45 47  
+  - Tempo de execução: 0.04s  
+- **frb30-15-1.txt**:  
+  - Tamanho do maior conjunto independente: 25  
+  - Vértices: 7 23 32 55 74 116 121 148 151 173 186 205 211 242 266 276 294 314 326 335 368 379 400 416 440  
+  - Tempo de execução: 1.064s  
+- **frb30-15-2.txt**:  
+  - Tamanho do maior conjunto independente: 25  
+  - Vértices: 9 17 40 52 70 84 96 125 148 155 172 191 197 218 240 254 264 299 326 343 352 383 392 419 435  
+  - Tempo de execução: 1s  
+- **frb35-17-1.txt**:  
+  - Tamanho do maior conjunto independente: 29  
+  - Vértices: 17 31 43 64 69 92 106 159 186 212 229 239 256 281 326 352 363 384 399 423 433 458 465 491 499 527 560 574 581  
+  - Tempo de execução: 1.468s  
+- **frb40-19-1.txt**:  
+  - Tamanho do maior conjunto independente: 32  
+  - Vértices: 12 20 51 76 92 107 117 151 155 189 212 268 300 311 326 351 367 407 419 460 494 507 525 537 560 573 617 638 674 703 712 727  
+  - Tempo de execução: 2.15s  
+- **frb56-25-1.txt**:  
+  - Tamanho do maior conjunto independente: 43  
+  - Vértices: 7 42 62 125 146 168 178 217 242 265 285 316 328 351 377 462 481 517 542 558 586 640 658 698 702 728 792 819 867 878 947 982 1028 1063 1080 1119 1198 1204 1251 1293 1324 1371 1388  
+  - Tempo de execução: 5.327s  
+- **frb59-26-1.txt**:  
+  - Tamanho do maior conjunto independente: 46  
+  - Vértices: 25 39 56 129 156 207 259 267 312 352 388 409 419 461 479 510 528 559 596 645 656 702 719 758 784 813 838 887 939 978 1038 1054 1107 1144 1168 1186 1198 1234 1272 1287 1345 1390 1451 1469 1508 1523  
+  - Tempo de execução: 6.205s  
